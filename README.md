@@ -2,6 +2,6 @@
 
 This line will be used for commit B: 
 
-This line will be used for commit C: 
+
 
 This line will be used for commit D: 
